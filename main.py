@@ -12,6 +12,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-git init
-git add
-
+print ("hello Mary, How are you now")
