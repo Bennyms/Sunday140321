@@ -17,3 +17,5 @@ print ("hello Mary, How are you now")
 print("we are going to try something different now")
 
 print_hi=(Marys)
+
+import numpy as np
